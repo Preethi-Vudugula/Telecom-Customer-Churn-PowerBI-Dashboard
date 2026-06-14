@@ -41,8 +41,7 @@ This dashboard helps stakeholders:
 - Contract type and internet service are the strongest churn indicators.
 
 ## Dashboard Preview
-
-![Dashboard](images/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## Project Structure
 
